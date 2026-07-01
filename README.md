@@ -45,5 +45,11 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-Intermediate-orange?logo=java&logoColor=white&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alihamzazeb&theme=github-compact)](https://github.com/alihamzazeb)
+
+
 ## Contact  
 [LinkedIn](https://www.linkedin.com/in/ali-hamza-zeb)
