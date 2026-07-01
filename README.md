@@ -45,12 +45,5 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-Intermediate-orange?logo=java&logoColor=white&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
----
-
-## Contribution Activity  
-![snake gif](https://github.com/alihamzazeb/alihamzazeb/blob/output/github-snake-dark.svg)
-
----
-
 ## Contact  
 [LinkedIn](https://www.linkedin.com/in/ali-hamza-zeb)
